@@ -91,7 +91,7 @@ window.addEventListener('load', function () {
 
     function decision () {
         console.log('Auswahl treffen')
-        document.getElementsByTagName('img') [3].click() // 2 = tickets, 3 = lipo
+        document.getElementsByTagName('img') [2].click() // 2 = tickets, 3 = lipo
         setTimeout(function () {
             document.getElementsByTagName('img') [2].click()
             setTimeout(makeAction, 2000)
