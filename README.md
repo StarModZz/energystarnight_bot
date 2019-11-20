@@ -1,2 +1,7 @@
-# energystarnight_bot
-Energy Star Night 2019 Game Bot
+# Energy Star Night 2019 Game Bot
+
+Use the Tampermonkey Addon for Google Chrome: https://tampermonkey.net/
+
+Copy & paste the script and go to https://game.energy.ch
+
+Thats it :)
