@@ -64,6 +64,7 @@ window.addEventListener('load', function () {
         "UM WAS GEHT ES BEI DER MORGENRUBRIK «VOLL DANEBEN»?": "Skurrile Fragen und lustige Antworten",
         "WANN GING ENERGY ZÜRICH ZUM ERSTEN MAL LIVE ON AIR?": "15. August 2003",
         "WIE HEISST DAS BEKANNTESTE MORGENSPIEL VON ENERGY?": "Bärchen &amp; Hasi"
+        NEW
     }
 
     function nextQuestion () {
